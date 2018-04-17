@@ -1,4 +1,4 @@
-This is a simple blog using Laravel framework, this simple project coming from book *Learning PHP 7*.
+This is a simple blog using Laravel framework, this simple project coming from the book *Learning PHP 7*.
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
